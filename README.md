@@ -7,11 +7,11 @@ Link to our team in Miscrosoft Teams is [here](https://teams.microsoft.com/l/tea
 
 ## Classes
 
-1. [Introduction to the course. Main objectives. Survey. Introduction to R programming language.]()
+1. [Introduction to the course. Main objectives. Survey. Introduction to R programming language.](https://github.com/AlexByzov93/nbd_2020/tree/master/Class%201)
 
 ## Homework
 
-In your Microsoft Teams class you can find your first homework. Deadline is Sept 14, 09:00
+In your Microsoft Teams class you can find your first homework. The deadline is Sept 14, 09:00
 
 ## Grade
 
