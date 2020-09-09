@@ -11,7 +11,7 @@ Link to our team in Miscrosoft Teams is [here](https://teams.microsoft.com/l/tea
 
 ## Homework
 
-In your Microsoft Teams class you can find your first homework. Deadline is Sept 14, 09:00
+In your Microsoft Teams class you can find your first homework. The deadline is Sept 14, 09:00
 
 ## Grade
 
