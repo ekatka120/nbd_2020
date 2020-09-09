@@ -3,6 +3,8 @@
 This is the the main page for the course. Here you can all relevant materials for the course.
 If you have any questions, you can contact me on my personal email [here](mailto:debesergopotes12@gmail.com?subject=NBD_2020)
 
+Link to our team in Miscrosoft Teams is [here](https://teams.microsoft.com/l/team/19%3a4d798a99a1da475abd8ab9ea8bcace5c%40thread.tacv2/conversations?groupId=0e7edf2d-6787-44a1-a566-5cb3e59358cd&tenantId=21f26c24-0793-4b07-a73d-563cd2ec235f)
+
 ## Classes
 
 1. [Introduction to the course. Main objectives. Survey. Introduction to R programming language.]()
