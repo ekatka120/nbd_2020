@@ -7,7 +7,7 @@ Link to our team in Miscrosoft Teams is [here](https://teams.microsoft.com/l/tea
 
 ## Classes
 
-1. [Introduction to the course. Main objectives. Survey. Introduction to R programming language.]()
+1. [Introduction to the course. Main objectives. Survey. Introduction to R programming language.](https://github.com/AlexByzov93/nbd_2020/tree/master/Class%201)
 
 ## Homework
 
